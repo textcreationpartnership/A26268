@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hidden things brought to light for the increase of knowledge in reading the Bible being an explanation of the coins, money-weights, measures, mentioned in the Bible ... : also in what chapters and verse or verses they are to be found : likewise the weights and measures how much they are of English : and also hard words of office and sects explained ...</title>
+            <author>Axford, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26268</idno>
+            <idno type="STC">Wing A4280A</idno>
+            <idno type="STC">ESTC R3328</idno>
+            <idno type="EEBO-CITATION">13073123</idno>
+            <idno type="OCLC">ocm 13073123</idno>
+            <idno type="VID">97172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hidden things brought to light for the increase of knowledge in reading the Bible being an explanation of the coins, money-weights, measures, mentioned in the Bible ... : also in what chapters and verse or verses they are to be found : likewise the weights and measures how much they are of English : and also hard words of office and sects explained ...</title>
+                  <author>Axford, John.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: John Axford.</note>
+                  <note>"Licenced according to order"</note>
+                  <note>Reproduction of original in Friends Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible (in numismatics)</term>
+               <term>Weights and measures, Jewish.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97172:1" rendition="simple:additions"/>
+            <p>
+               <hi>Hidden Things brought to Light,</hi> FOR THE Increaſe of Knowledge In Reading the <hi>Bible.</hi>
+            </p>
+            <p>Being an Explanation of the <hi>Coyns, Money, VVeights, Meaſures,</hi> mentioned in the BIBLE; as <hi>Shekels, Talents, pieces</hi> of <hi>Silver, Silverlings, Pence,</hi> &amp;c. And what they are in Value in Gold and Silver, accor<g ref="char:EOLhyphen"/>ding to <hi>Engliſh</hi> current Mony. Being caſt up from One <hi>Talent,</hi> to Three Hundred and Fifty Thouſand <hi>Talents,</hi> in plain words; for the Underſtanding of any that can Read the <hi>Bible.</hi>
+            </p>
+            <p>Alſo, in what Chapters and Verſe or Verſes they are to be found.</p>
+            <p>Likewiſe, the <hi>Weights</hi> and <hi>Meaſures,</hi> how much they are of <hi>Engliſh.</hi>
+            </p>
+            <p>And alſo, Hard Words of <hi>Office</hi> and <hi>Sects</hi> Explained.</p>
+            <p>
+               <hi>Very <g ref="char:V">Ʋ</g>ſeful for all that can Read</hi> Engliſh. <hi>The like never done before.</hi>
+            </p>
+            <p>Licenced according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> next Door to the <hi>Meeting-houſe</hi> in <hi>White-hart-court</hi> in <hi>Gracious-ſtreet;</hi> and at the <hi>Bi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</hi> in <hi>Leaden<g ref="char:EOLhyphen"/>hall-ſtreet,</hi> near the <hi>Market,</hi> 1697.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97172:2"/>
+            <pb facs="tcp:97172:2"/>
+            <head>TO THE READER.</head>
+            <p>FOr a General Good, and for the In<g ref="char:EOLhyphen"/>creaſe of Knowledge and <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding in Reading the <hi>Bible,</hi> I have been at ſome pains and trouble in examin<g ref="char:EOLhyphen"/>ing ſeveral <hi>Dictionaries,</hi> for the finding out the true Value of the <hi>Coyns-Money</hi> mentioned in the Bible; And alſo the <hi>Weights</hi> and <hi>Meaſures;</hi> And what the <hi>Shekels</hi> are, of which there are three ſorts; the Common, the Kings, and of the San<g ref="char:EOLhyphen"/>ctuary. So likewiſe there are three ſorts of <hi>Talents;</hi> the Common, the Kings, and of the Sanctuary; which I have caſt up both in Gold, Silver and Weight: And how much each is a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cording to <hi>Engliſh</hi> current Money, from One to Three Hundred and Fifty Thouſand <hi>Talents,</hi> in plain words. And alſo of the <hi>Pieces</hi> of <hi>Silver, Silver<g ref="char:EOLhyphen"/>lings, Pence:</hi> And in what Chapter or Chapters, Verſe or Verſes, any of them are
+<pb facs="tcp:97172:3"/> to be ſound. And alſo the <hi>Meaſures,</hi> how much any of them is of <hi>Engliſh.</hi> Alſo the Hard Words explained, as of <hi>Office, Sects, Phariſees, Herodians, Tetrach, Proſelytes, Logion, Stoicks,</hi> and di<g ref="char:EOLhyphen"/>vers others; being very uſeful and neceſ<g ref="char:EOLhyphen"/>ſary for all People that can Read the Bi<g ref="char:EOLhyphen"/>ble: Whereby they will come to know the exceeding vaſt Riches of King <hi>David, So<g ref="char:EOLhyphen"/>lomon,</hi> and the Queen of <hi>Sueba;</hi> there being no Emperour, King, Prince or Po<g ref="char:EOLhyphen"/>tentate now in the World, or ever were before, that hath or had the like; and alſo other Kings in thoſe times. All which is fully mentioned in what follows. The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike never before done in ſo plain a way for all Perſons that can but Read <hi>Engliſh,</hi> where<g ref="char:EOLhyphen"/>by their Knowledge may be encreaſed, their <g ref="char:V">Ʋ</g>nderſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding better'd; and all to the Glory of Almighty God, that being the deſire of him who doth Publiſh it for a Ge<g ref="char:EOLhyphen"/>neral Good.</p>
+            <closer>
+               <signed>John Axford.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:97172:3" rendition="simple:additions"/>
+            <head>The Money, Weights and Meaſures menti<g ref="char:EOLhyphen"/>oned in the Old and New Teſtament; with their Value, and how much it is in <hi>Engliſh</hi> current Money, either in Gold or Silver.</head>
+            <p>THere are three ſorts or kinds of Shekels, and alſo of Talents, often mentioned in the Scriptures of Truth.</p>
+            <p>Firſt, the Common Shekel, which was a quarter of an Ounce; wor h fif<g ref="char:EOLhyphen"/>teen Pence.</p>
+            <p>The King's Shekel weighed three Drachms or Drams, there being Eight in an Ounce; three being worth One Shilling, ten Pence, half penny.</p>
+            <p>The Shekel of the Sanctuary or Temple, weighed four Drams, or
+<pb n="6" facs="tcp:97172:4" rendition="simple:additions"/> half an Ounce; worth two Shillings, ſix Pence.</p>
+            <p>Alſo there are Three ſorts of Ta<g ref="char:EOLhyphen"/>lents. The Common Talent, which weighed three thouſand quarters of Ounces or Common Shekels, which is ſix thouſand Drams; and is one hundred eighty ſeven Pounds, ten Shillings.</p>
+            <p>The King's Talent weighed three thouſand of the Kings Shekels, which is nine thouſand Drams; and is two hundred eighty one Pounds, five Shil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>The Talent of the Temple weigh<g ref="char:EOLhyphen"/>ed three thouſand Shekels of the Tem<g ref="char:EOLhyphen"/>ple, which is ſo many half Ounces; which comes to three hundred ſeventy five Pounds.</p>
+            <p>A Silverling, or piece of Silver of<g ref="char:EOLhyphen"/>ten mentioned, is worth two Shillings, ſix Pence.</p>
+            <p>The Common Shekel of Gold, is two Drams; worth fifteen Shillings.</p>
+            <p>The King's Shekel of Gold is three Drams, worth one Pound, two Shil<g ref="char:EOLhyphen"/>lings, ſix Pence.</p>
+            <pb n="7" facs="tcp:97172:4" rendition="simple:additions"/>
+            <p>The Shekel of Gold of the Temple is four Drams, or half an Ounce; worth one Pound, ten Shillings.</p>
+            <p>The Common Talent of Gold, is worth two thouſand two hundred and fifty Pounds.</p>
+            <p>The Kings Talent of Gold, is worth three thouſand three hundred ſeventy five Pounds.</p>
+            <p>The Talent of the Sanctuary or Temple, is worth four thouſand five hundred Pounds.</p>
+            <p>The Gold being weighed by ſuch Weight as Silver is, which is by <hi>Troy</hi> Weight.</p>
+            <div type="part">
+               <head>Now follows what the <hi>Money</hi> thro' the whole Scripture is worth, with the Names of the Chap<g ref="char:EOLhyphen"/>ters, and Verſe or Verſes where it is mentioned.</head>
+               <p>
+                  <hi>Geneſis</hi> 20.16. And to <hi>Sarah,</hi> King <hi>Abimelech</hi> ſaid, <hi>I have given to thy Bro<g ref="char:EOLhyphen"/>ther one thouſand pieces of Silver;</hi> which were called <hi>Silverlings;</hi> is one hundred
+<pb n="8" facs="tcp:97172:5" rendition="simple:additions"/> twenty five Pounds, two Shillings, ſix Pence.</p>
+               <p>
+                  <hi>Gen.</hi> 23.16. And <hi>Abraham</hi> bought a Burying-place for four hundred She<g ref="char:EOLhyphen"/>kels of Silver, current Money with the Merchant, which were common Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kels; is twenty five Pounds.</p>
+               <p>
+                  <hi>Geneſis</hi> 24.22. That the man took a Golden Ear-Ring of half a Shekel weight; is ſeven Shillings, ſix Pence. And two Bracelets for her Hands, of ten Shekels weight of Gold; is ſeven Pounds, ten Shillings.</p>
+               <p>
+                  <hi>Gen.</hi> 37.28. <hi>Joſeph</hi>'s Brethren ſold him for twenty pieces of Silver; which is two Pounds, ten Shillings.</p>
+               <p>
+                  <hi>Gen.</hi> 45.22. He gave to <hi>Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jamin</hi> three hundred pieces of Silver; is thir<g ref="char:EOLhyphen"/>ty ſeven Pounds, ten Shillings.</p>
+               <p>
+                  <hi>Exodus</hi> 25.39. Of a Talent of pure Gold ſhall he make with all theſe Veſſels; is four thouſand five hundred Pounds.</p>
+               <p>
+                  <hi>Exod.</hi> 30.23. Every one that was numbred to give half a Shekel of the Sanctuary; is one ſhilling, three pence.</p>
+               <p>
+                  <hi>Exod.</hi> 38.24. All the Gold that was occupied, even the Gold of the
+<pb n="9" facs="tcp:97172:5" rendition="simple:additions"/> Offering, was twenty nine Talents and ſeven hundred thirty Shekels, af<g ref="char:EOLhyphen"/>ter the Shekel of the Sanctuary; is one hundred thirty one thouſand five hun<g ref="char:EOLhyphen"/>dred fifty five Pounds.</p>
+               <p>
+                  <hi>Verſe</hi> 25. And the Silver of them that was numbred of the Congregation, was one hundred Talents and ſeven hundred ſeventy five Shekels, after the Shekel of the Sanctuary; comes to thir<g ref="char:EOLhyphen"/>ty ſeven thouſand ſeven hundred twen<g ref="char:EOLhyphen"/>ty one Pounds, ſeventeen Shillings, ſix Pence.</p>
+               <p>
+                  <hi>Numbers</hi> 7.12, 13, 14. And he that offered his Offering, the firſt was <hi>Naſhon</hi> the Son of <hi>Aminadab;</hi> one Sil<g ref="char:EOLhyphen"/>ver Charger weighed one hundred Shekels of the Sanctuary; is twelve Pounds, ten Shillings. One Silver Bowle ſeven Shekels, is eight Pounds, fifteen Shillings. One Golden Spoon ten Shekels, is fifteen Pounds. So the worth of the Gold and Silver which one Prince offered, is thirty ſix Pounds five Shillings. So the whole Offerings of the twelve Princes in Gold and Silver, Chargers, Bowles
+<pb n="10" facs="tcp:97172:6" rendition="simple:additions"/> and Spoons, amounts unto four hun<g ref="char:EOLhyphen"/>dred thirty five Pounds.</p>
+               <p>
+                  <hi>Numb.</hi> 31.32. And all the Offerings that were Offered to the Lord of the Captains of Thouſands and Hundreds, was ſixteen thouſand ſeven hundred fif<g ref="char:EOLhyphen"/>ty Shekels of Gold of the Sanctuary; is twenty five thouſand one hundred twenty five Pounds. Read the 31 Chap<g ref="char:EOLhyphen"/>ter of <hi>Numbers,</hi> it's worth obſervation.</p>
+               <p>
+                  <hi>Joſhua</hi> 6.20, 21. And <hi>Achan</hi> ſaid, <hi>I have Sinned, when I ſaw among the ſpoils a goodly</hi> Babyloniſh <hi>Garinen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and two hundred Shekels of Silver,</hi> &amp;c. which are Common; is twelve Pounds, ten Shil<g ref="char:EOLhyphen"/>lings. And a Wedge of Gold of fifteen Shekels, which were Common; is ele<g ref="char:EOLhyphen"/>ven Pounds, five Shillings.</p>
+               <p>
+                  <hi>Judges</hi> 8.26. And the weight of the Golden Ear-rings which he reque<g ref="char:EOLhyphen"/>ſted, was one thouſand ſeven hundred Shekels of Gold, which were Common; comes to one thouſand two hundred ſe<g ref="char:EOLhyphen"/>venty five Pounds.</p>
+               <p>
+                  <hi>Judges</hi> 9.4. And they gave him ſe<g ref="char:EOLhyphen"/>venty pieces of Silver; is eight Pounds, fifteen Shillings.</p>
+               <p>
+                  <hi>Judges</hi> 16.5. And the Lords of the
+<gap reason="missing" extent="4 pages">
+                     <desc>〈4 pages missing〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:97172:6" rendition="simple:additions"/> pounds, twelve ſhillings, eleven pence.</p>
+               <p>
+                  <hi>Verſ.</hi> 20. And there came up a Chariot from <hi>Egypt</hi> for ſix hundred Shekels; is fifty ſix pounds, five ſhil<g ref="char:EOLhyphen"/>lings. And a Horſe for one hundred &amp; fifty Shekels of Silver, is fourteen pounds, one ſhilling, three pence.</p>
+               <p>1 <hi>Kings</hi> 16.24. And he bought the <hi>Hill Samaria</hi> of <hi>Shemer</hi> for two Talents of Silver; is five hundred ſixty two pounds, ten ſhillings, the Kings Talent.</p>
+               <p>1 <hi>Kings</hi> 20. <hi>Then thy Life ſhall be for his Life, or elſe thou ſhalt pay a Ta<g ref="char:EOLhyphen"/>lent of ſilver,</hi> &amp;c. being a Common Talent, is one hundred eighty ſeven pounds, ten ſhillings.</p>
+               <p>2 <hi>Kings</hi> 5.23. And <hi>Naman</hi> ſaid, Be <hi>content, take two Talents of Silver</hi> &amp;c. which is the Kings Talent; is five hundred ſixty two pounds ten ſhillings.</p>
+               <p>2 <hi>Kings</hi> 6.29 A great Famine in <hi>Samaria,</hi> and they beſieged it until an Aſſes Head was ſold for fourſcor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pieces of Siver; which is ten pounds: And the fourth part of a Cab of Doves-Dung, which is half a Pint, for five pieces of Silver, which is
+<pb n="16" facs="tcp:97172:7" rendition="simple:additions"/> twelve ſhilings, ſix pence. They uſ<g ref="char:EOLhyphen"/>ed the Doves-Dung inſtead of Salt.</p>
+               <p>2 <hi>Kings.</hi> 7.1. Then <hi>Eliſha</hi> ſaid, <hi>Hear the Word of the Lord, To morrow a<g ref="char:EOLhyphen"/>bout this time ſhall a Meaſure of fine Flow<g ref="char:EOLhyphen"/>er be ſold for a Shekel,</hi> which is one ſhil<g ref="char:EOLhyphen"/>ling three pence; <hi>and two Meaſures of Barly for a Shekel,</hi> &amp;c. A Meaſure be<g ref="char:EOLhyphen"/>ing a Buſhel: It came to paſs as the Man of God had ſaid.</p>
+               <p>2 <hi>Kings</hi> 15.19, 20. And <hi>Mena<g ref="char:EOLhyphen"/>hem</hi> gave <hi>Pul</hi> a thouſand Talents of Silver; is two hundred eighty one thouſand two hundred &amp; fifty pounds. He exacted of each Man that was Wealthy, fifty Shekels; is three pounds two ſhillings ſix pence.</p>
+               <p>1 <hi>Chron.</hi> 21.25. <hi>David</hi> gave to <hi>Ornan</hi> for the place ſix hundred Shekels of Gold by weight, the She<g ref="char:EOLhyphen"/>kel of the Sanctuary; is nine hun<g ref="char:EOLhyphen"/>dred Pounds.</p>
+               <p>1 <hi>Chron.</hi> 22.14. <hi>Now behold in my Troubles I have prepared for the Houſe of the Lord, one hundred thouſand <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>lents of Gold,</hi> which amounts unto, being of the Sanctuary, forty five thouſand Millions current <hi>Engliſh</hi>
+                  <pb n="17" facs="tcp:97172:7" rendition="simple:additions"/> Money. <hi>And a thouſand thouſand Ta<g ref="char:EOLhyphen"/>lents of Silver;</hi> which is in <hi>Engliſh</hi> cur<g ref="char:EOLhyphen"/>rent Money, thirty ſeven Millions five hundred thouſand Pounds</p>
+               <p>1 <hi>Chron.</hi> 29.7. And gave for the ſervice of the Houſe, of Gold, five thouſand Talents, and ten thouſand Drams, according to the Talent of the Sanctuary; is two millions two hun<g ref="char:EOLhyphen"/>dred fifty three thouſand ſeven hun<g ref="char:EOLhyphen"/>dred and fifty Pounds. And of Sil<g ref="char:EOLhyphen"/>ver, ten thouſand Talents; which is three millions ſeven hundred and fif<g ref="char:EOLhyphen"/>ty thouſand Pounds, <hi>Engliſh</hi> current Money. And of Braſs, eighteen thou<g ref="char:EOLhyphen"/>ſand Talents; which is in weight, two millions two hundred and fifty thou<g ref="char:EOLhyphen"/>ſand Pounds; which is one thouſand four Tun, and nine hundred thirty two Pounds. And of Iron, one hun<g ref="char:EOLhyphen"/>dred thouſand Talents; which is in weight twelve Millions five hundred thouſand Pounds; which is five thou<g ref="char:EOLhyphen"/>ſand five hundred ſeventy nine Tun, eleven hundred ſeventy eight Pounds.</p>
+               <p>2 <hi>Chron.</hi> 3.8. And he over-laid it with fine Gold, amounting to ſix hun<g ref="char:EOLhyphen"/>dred Talents of the Sanctuary; is
+<pb n="18" facs="tcp:97172:8" rendition="simple:additions"/> two Millions ſeven hundred thouſand Pounds.</p>
+               <p>
+                  <hi>Verſe</hi> 9. And the weight of the Nails was fifty Shekels of Gold; is ſeventy five Pounds.</p>
+               <p>2 <hi>Chron.</hi> 8.18. And they took from <hi>Ophir</hi> four hundred and fifty Talents of Gold, and brought them to King <hi>Solomon;</hi> which is one Mil<g ref="char:EOLhyphen"/>lion five hundred and eighteen thou<g ref="char:EOLhyphen"/>ſand ſeven hundred and fifty Pounds.</p>
+               <p>2 <hi>Chron.</hi> 9.9. And ſhe gave the King one hundred and twenty Talents of Gold; according to the Kings Ta<g ref="char:EOLhyphen"/>lent, is four hundred and five thouſand Pounds.</p>
+               <p>
+                  <hi>Verſe</hi> 13. Now the weight of Gold that came to King <hi>Solomon</hi> in one Year, was ſix hundred ſixty ſix Talents; a<g ref="char:EOLhyphen"/>mounts to, according to the Kings Talent, two Millions two hundred forty ſeven thouſand ſeven hundred and fifty Pounds, <hi>Engliſh</hi> current Mo<g ref="char:EOLhyphen"/>ney.</p>
+               <p>
+                  <hi>Verſe</hi> 15. And King <hi>Solomon</hi> made two hundred Targets of beaten Gold, ſix hundred Shekels of Gold to one Target, which is nine hundred Pounds
+<pb n="19" facs="tcp:97172:8" rendition="simple:additions"/> worth of Gold to one Target. The worth of Gold to the three hundred Targets, amounts unto one hundred and eighty thouſand Pounds.</p>
+               <p>
+                  <hi>Verſe</hi> 16. And three hundred Shields made he of beaten Gold, three hundred Shekels went to one Shield, which is four hundred and fifty Pounds. The worth of Gold to the three hundred Shields, is one hun<g ref="char:EOLhyphen"/>dred thirty five thouſand Pounds, ac<g ref="char:EOLhyphen"/>cording to the Shekel of the Sanctuary.</p>
+               <p>2 <hi>Chron.</hi> 2.56. And he hired one hundred thouſand Mighty Men of Va<g ref="char:EOLhyphen"/>lour, out of <hi>Iſrael,</hi> for one hundred Talents of Silver, the Kings Talent; is twenty eight thouſand one hundred twenty five Pounds <hi>Engliſh.</hi>
+               </p>
+               <p>2 <hi>Chron.</hi> 27.5. And the Children of <hi>Ammon</hi> gave him, the ſame Year, one hundred Talents of Silver, being Common; is eighteen thouſand ſeven hundred and fifty Pounds <hi>Engliſh.</hi>
+               </p>
+               <p>2 <hi>Chron</hi> 36.4. And condemned the Land in an hundred Talents of Silver, being Common; is eigh<g ref="char:EOLhyphen"/>teen thouſand ſeven hundred and fifty Pounds.</p>
+               <pb n="20" facs="tcp:97172:9" rendition="simple:additions"/>
+               <p>
+                  <hi>Jeremiah</hi> 32.9. And <hi>I weighed him the Money, even ſeventeen Shekels of Silver,</hi> &amp;c. being Common, is twenty one Shillings, three Pence.</p>
+               <p>
+                  <hi>Hoſea</hi> 3.2. <hi>So I Bought her unto me for fifteen pieces of Silver,</hi> &amp;c. is one Pound, ſeventeen Shillings and ſix Pence.</p>
+            </div>
+            <div type="part">
+               <head>Thus far the <hi>Old-Teſtament.</hi>
+               </head>
+               <p>
+                  <hi>Matthew</hi> 18.24. One was brought to him which owed him ten thouſand Talents, which was forgiven him; being Common Talents, comes to one million eight hun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red ſeventy five thouſand Pounds. One of his Fellow-Servants owed him one hundred Pence, called <hi>Drachma,</hi> ſeven Pence half penny; is three Pound two Shil<g ref="char:EOLhyphen"/>lings ſix Pence, which he would not forgive his Fellow-Servant.</p>
+               <p>
+                  <hi>Matth.</hi> 17.27. <hi>And take up the Fiſh that firſt cometh up, and when thou haſt opened his Mouth, thou ſhalt find a piece of Money, that take and give them for me and thee,</hi> &amp;c. Which piece of
+<pb n="21" facs="tcp:97172:9" rendition="simple:additions"/> Money is called a <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ater;</hi> it is half an Ounce of Silver, which is two Shillings.</p>
+               <p>
+                  <hi>Matth.</hi> 22.19. And they ſhewed him a Penny; which is ſeven Pence half penny.</p>
+               <p>
+                  <hi>Ma th.</hi> 25.15. To one he gave five Talents; ſuppoſed Common, is nine hundred thirty ſeven Pounds, ten Shillings. To another two Talents, is three hundred ſeventy five Pounds. To another one, which is one hun<g ref="char:EOLhyphen"/>dred eighty ſeven Pounds, ten Shil<g ref="char:EOLhyphen"/>lings</p>
+               <p>
+                  <hi>Matth.</hi> 20.5. He agreed with the Labourers for a Penny a Day; which is ſeven Pence half penny, being the <hi>Roman</hi>-Penny.</p>
+               <p>
+                  <hi>Matth.</hi> 26.15. And they cove<g ref="char:EOLhyphen"/>nanted with <hi>Judas</hi> for Thirty pieces of Silver, called alſo Silverlings, being half an Ounce of Silver; is two Shil<g ref="char:EOLhyphen"/>lings, ſix Pence; which comes to three Pounds fifteen Shillings.</p>
+               <div type="section">
+                  <pb n="22" facs="tcp:97172:10" rendition="simple:additions"/>
+                  <head>The Meaſures Mentioned in the Scripture.</head>
+                  <p>There are divers kinds of <hi>Cubits.</hi>
+                  </p>
+                  <p n="1">1. The <hi>Common Cubit,</hi> was from the Elboe to the long fingers end, or a Foot and half, or half a Yard,</p>
+                  <p n="2">2. The <hi>King's Cubit,</hi> one and twen<g ref="char:EOLhyphen"/>ty Inches, or a Hand's breadth more than the Common.</p>
+                  <p n="3">3. The <hi>Cubit of the Sanctuary,</hi> con<g ref="char:EOLhyphen"/>tains two of the Common, being a full Yard.</p>
+                  <p n="4">4. A <hi>Geometrical Cubit,</hi> contains ſix Common Cubits, which is three Yards: According to this <hi>Cubit</hi> it's thought <hi>Noah</hi>'s Ark was built.</p>
+                  <p>A <hi>Reed</hi> is ſix Common Cubits,
+<pb n="23" facs="tcp:97172:10" rendition="simple:additions"/> and a Hand's breadth, which is three Inches.</p>
+                  <p>A <hi>Pace</hi> is five Foot.</p>
+                  <p>A <hi>Furlong</hi> is one hundred twenty five <hi>Paces,</hi> or forty <hi>Perch.</hi>
+                  </p>
+                  <p>A <hi>Mile</hi> is one thouſand Paces, or eight Furlongs: But in the Scripture or <hi>Hebrew,</hi> as much as a Man can go in half a day, or between Meal and Meal.</p>
+                  <p>
+                     <hi>Judges</hi> 20.16. Among all this Peo<g ref="char:EOLhyphen"/>ple, there were ſeven hundred cho<g ref="char:EOLhyphen"/>ſen Men left, which could Sling at a Hairs breadth, and not miſs.</p>
+                  <p>Now a Hairs breadth is the forty eighth part of an Inch. Twelve In<g ref="char:EOLhyphen"/>ches is a Foot. Sixteen Foot and an half is a Perch. Forty Perch is a Fur<g ref="char:EOLhyphen"/>long. Eight Furlongs is a Mile.</p>
+                  <p>A <hi>Sabbath-days Journey,</hi> according to Scripture, is ſix hundred <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aces.</p>
+               </div>
+               <div type="section">
+                  <pb n="24" facs="tcp:97172:11" rendition="simple:additions"/>
+                  <head>The Meaſures Mentioned in the Scripture.</head>
+                  <p>
+                     <hi>Firſt of Dry,</hi>
+                  </p>
+                  <p>A <hi>Cab</hi> is a Quart.</p>
+                  <p>An <hi>Omer</hi> is a Quart and half.</p>
+                  <p>A <hi>Seath</hi> is a Gallon and half.</p>
+                  <p>An <hi>Ephath</hi> is half a Buſhel and a Pottle.</p>
+                  <p>Half an <hi>Homer</hi> is ſeven Buſhels and a Quart.</p>
+                  <p>An <hi>Homer</hi> or <hi>Cor</hi> is fourteen Buſh<g ref="char:EOLhyphen"/>els and a Pottle.</p>
+                  <p>A <hi>Chenix,</hi> by ſome counted three Pints five Ounces and half, by others a Quart.</p>
+               </div>
+               <div type="section">
+                  <pb n="25" facs="tcp:97172:11" rendition="simple:additions"/>
+                  <head>The Liquid or Wet Meaſures.</head>
+                  <p>A <hi>Log</hi> is half a Pint.</p>
+                  <p>A <hi>Hin</hi> is three Quarts.</p>
+                  <p>A <hi>Bath</hi> is nine Gallons three Quarts.</p>
+                  <p>A <hi>Poe</hi> or <hi>Sextary</hi> is a Pint and half.</p>
+                  <p>A <hi>Firkin</hi> is four Gallons and half.</p>
+               </div>
+               <div type="section">
+                  <head>Of Legion.</head>
+                  <p>We read in the Scripture of <hi>Legion,</hi> as <hi>Mark</hi> 5.9. He asked him, <hi>What is thy Name.</hi> And he anſwered, ſaying, <hi>My Name is</hi> Legion, <hi>for we are many,</hi> &amp;c.</p>
+                  <p>Matth. 26.53. <hi>Thinkeſt thou that I cannot now Pray to my Father, and he ſhall preſently give me more than Twelve Legions of Angels,</hi> &amp;c. Twelve <hi>Legi<g ref="char:EOLhyphen"/>ons</hi> is eighty thouſand ſeven hundred and fifty.</p>
+                  <p>So <hi>Luke</hi> 8.30. And Jeſus asked him, ſaying, <hi>What is thy Name?</hi> And and he ſaid, <hi>Legion; becauſe many De<g ref="char:EOLhyphen"/>vils
+<pb n="26" facs="tcp:97172:12" rendition="simple:additions"/> were entred into him.</hi> And if a <hi>Le<g ref="char:EOLhyphen"/>gion</hi> conſiſted of ſo many, as is men<g ref="char:EOLhyphen"/>tioned, as it follows, then they were poſſeſt with ſome Thouſands of De<g ref="char:EOLhyphen"/>vils: For a <hi>Legion</hi> at that time was ſix thouſand Foot-Men, and ſeven hun<g ref="char:EOLhyphen"/>dred and thirty Horſe-Men.</p>
+                  <p>
+                     <hi>Romulus,</hi> who built <hi>Rome,</hi> his <hi>Legi<g ref="char:EOLhyphen"/>on</hi> conſiſted of three thouſand Foot-Men, and three hundred Horſe-Men.</p>
+                  <p>Afterwards a <hi>Legion</hi> was four thou<g ref="char:EOLhyphen"/>ſand two hundred Foot-Men, and three hundred Horſe-Men.</p>
+                  <p>After, in <hi>Julius Caeſar</hi>'s time, which was about one hundred and fifty Years before Chriſt, a <hi>Legion</hi> was five thou<g ref="char:EOLhyphen"/>ſand Foot, and three hundred Horſe-Men.</p>
+                  <p>
+                     <hi>Liſey</hi> and <hi>Iſodor</hi> ſay, a <hi>Legion</hi> con<g ref="char:EOLhyphen"/>ſiſted of ſix thouſand Armed Men. <hi>Heſych</hi> ſaith, a <hi>Legion</hi> was an Army of ſix thouſand ſix hundred ſixty and ſix.</p>
+                  <p>Afterwards a full and perfect <hi>Le<g ref="char:EOLhyphen"/>gion</hi> conſiſted of ſix thouſand Foot-Men, and ſeven hundred and thirty Horſe-Men, of the Common Soldiers.</p>
+               </div>
+               <div type="section">
+                  <pb n="27" facs="tcp:97172:12" rendition="simple:additions"/>
+                  <head>Of Offices and Conditions of Men.</head>
+                  <p>
+                     <hi>Patriarch,</hi> is a Father of the Fami<g ref="char:EOLhyphen"/>ly, as <hi>Abraham, Iſaac, Jacob</hi> and his Sons. <hi>Judges,</hi> Temporary, or for a time, ſupream Governours appoint<g ref="char:EOLhyphen"/>ed over the Children of <hi>Iſrael,</hi> King over a Nation, or Kings after the falling of the ten Tribes of <hi>Iſrael. Elders,</hi> or Senators, the ſeventy; or <hi>Sanhedrim,</hi> Officers, Proviſts or She<g ref="char:EOLhyphen"/>riffs. Judges or Rulers, ſuch as de<g ref="char:EOLhyphen"/>termined Controverſies in particular Cities. <hi>Hebrews,</hi> from <hi>Abraham.</hi> An <hi>Iſraelite,</hi> from <hi>Jacob,</hi> who was na<g ref="char:EOLhyphen"/>med <hi>Iſrael;</hi> called Children of <hi>Iſrael.</hi> A <hi>Proſeiite</hi> of the <hi>Covenant,</hi> who ſub<g ref="char:EOLhyphen"/>mitted to the Law, and was Circum<g ref="char:EOLhyphen"/>ciſed. A <hi>Proſelite</hi> of the <hi>Gate,</hi> or Stran<g ref="char:EOLhyphen"/>ger, who Worſhiped the true God, but was not Circumciſed. The <hi>Offi<g ref="char:EOLhyphen"/>cer</hi> or <hi>Governour,</hi> appointed by the Kings of <hi>Aſſyria</hi> and <hi>Perſia.</hi> Heads of the People in Captivity, or chief of
+<pb n="28" facs="tcp:97172:13" rendition="simple:additions"/> each Tribe, or many who exerciſed under others Government, during the Captivity. Under the <hi>Grecian</hi> Monar<g ref="char:EOLhyphen"/>chy the <hi>Maccabees,</hi> or the Succeſſors of <hi>Judas Maccabeas. High-Prieſt,</hi> who pre<g ref="char:EOLhyphen"/>ſided in Kingly Government or Pow<g ref="char:EOLhyphen"/>er under the <hi>Roman</hi> Emperors. <hi>Pre<g ref="char:EOLhyphen"/>ſidents</hi> or <hi>Governours,</hi> ſent from <hi>Rome</hi> with Imperial Power. <hi>Tetrarches,</hi> who had Kingly Power over ſome Provin<g ref="char:EOLhyphen"/>ces. <hi>Proconſuls</hi> or Deputies of Pro<g ref="char:EOLhyphen"/>vinces, Inferior Officers. <hi>Publicans,</hi> who were Tribute or Tax-gatherers, hated of the <hi>Jews. Centurion,</hi> Cap<g ref="char:EOLhyphen"/>tain of an hundred Men. <hi>Political Officers,</hi> or Sects of Men. <hi>High-Prieſt,</hi> who only might enter into the Holy of Holies. <hi>Prieſt,</hi> or <hi>Sagan,</hi> who ſup<g ref="char:EOLhyphen"/>plied the High-Prieſt's Office, in caſe he were diſabled; ſome ſet apart for the War for expedition. The Sons of <hi>Aaron,</hi> who had divers Ranks, De<g ref="char:EOLhyphen"/>grees and Offices in the Temple. Al<g ref="char:EOLhyphen"/>ſo the ſons of <hi>Levi,</hi> who were of three Ranks and Orders, <hi>Gerſhomites, Chohothites, M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rarites.</hi> Alſo <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>thi<g ref="char:EOLhyphen"/>mins,</hi> Inferior Servants of the <hi>Prieſts</hi> and <hi>Levites,</hi> not of their Tribe, to
+<pb n="29" facs="tcp:97172:13" rendition="simple:additions"/> draw Water and cleave Wood. <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi> who were antiently called <hi>Seers,</hi> who fore-told things to come; and denounced Gods Judgments againſt I<g ref="char:EOLhyphen"/>dolaters and Evil-Doers: And taught the People. <hi>Children of the Prophets,</hi> their Diſciples or Scholars. <hi>Wiſe Men,</hi> called ſo, in imitation of the Wiſe Men of the Eaſt, or <hi>Gentile Phi<g ref="char:EOLhyphen"/>loſophers. Scribes,</hi> Writers and Ex<g ref="char:EOLhyphen"/>pounders of the Law. <hi>Diſputers,</hi> raiſ<g ref="char:EOLhyphen"/>ed and determined Queſtions out of the Law. <hi>Rabbies,</hi> Doctors or Teach<g ref="char:EOLhyphen"/>ers of <hi>Iſrael. Libertius,</hi> or freed Men of <hi>Rome,</hi> who being <hi>Jews,</hi> or Proſe<g ref="char:EOLhyphen"/>lites, had a Synagogue, or Oratory for themſelves. <hi>Gaulenits,</hi> or <hi>Galile<g ref="char:EOLhyphen"/>ans,</hi> who pretended it unlawful to o<g ref="char:EOLhyphen"/>bey a <hi>Heathen</hi> Magiſtrate. <hi>Herodians,</hi> who ſhaped their Religion to the Times, and particularly flattered <hi>Herod. Epicureans,</hi> who placed their Happineſs in Pleaſures. <hi>Stoicks,</hi> who den<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed the Liberty of the Will, and pretended all Events were determined by fatal neceſſity. <hi>Simon Magus,</hi> Author of the Hereſie of the <hi>Gnoſticks,</hi> who taught, That Men, however Virtuous
+<pb n="30" facs="tcp:97172:14" rendition="simple:additions"/> in their Practice, ſhould be ſaved by their Knowledge. <hi>Nicholaitans,</hi> the Diſciples of <hi>Nicholas,</hi> one of the ſeven Deacons, who taught the Communi<g ref="char:EOLhyphen"/>ty of Wifes, or Men to have more than one Wife. <hi>Nazarites,</hi> who un<g ref="char:EOLhyphen"/>der a Vow abſtained from Wine. <hi>Nazarens,</hi> profeſſing <hi>Chriſtianity. Zelots,</hi> or Murmerers, who under the pretence of the Law, thought themſelves authorized to commit any out-rage. <hi>Phariſees,</hi> Separatiſts, who upon the Opinion of their Godlineſs deſpiſed others. <hi>Sadduces,</hi> who deny<g ref="char:EOLhyphen"/>ed the Reſurection, Angel or Spirit. <hi>Samaritans,</hi> Mungrel Profeſſors, part<g ref="char:EOLhyphen"/>ly <hi>Heathen,</hi> and partly <hi>Jews;</hi> the off<g ref="char:EOLhyphen"/>ſpring of the <hi>Aſſyrians,</hi> who were ſent to <hi>Samaria. Apoſtle,</hi> miſſion, or ſent; our Saviour had twelve, and after thoſe ſeventy, and ſent them to Preach the Goſpel, and heal all manner of Diſeaſes. <hi>Biſhops,</hi> or <hi>Overſeers:</hi> And their Succeſſors, who had the Gover<g ref="char:EOLhyphen"/>ment of the Church, as they are men<g ref="char:EOLhyphen"/>tioned in the Epiſtles of <hi>Paul</hi> and <hi>Pe<g ref="char:EOLhyphen"/>ter.</hi> Alſo <hi>Deacons,</hi> who were to Preach the Goſpel, and take care of the Poor.</p>
+                  <pb n="31" facs="tcp:97172:14" rendition="simple:additions"/>
+                  <p>In the <hi>Old-Teſtament</hi> or <hi>Bible,</hi> are ſeven Hundred ſeventy ſeven Chap<g ref="char:EOLhyphen"/>ters.</p>
+                  <p>In the <hi>New-Teſtament,</hi> Two Hun<g ref="char:EOLhyphen"/>dred and ſixty Chapters.</p>
+                  <p>In the <hi>Apocrypha,</hi> One Hundred &amp; ſeventy three Chapters.</p>
+                  <p>In the <hi>Old-Teſtament</hi> are Verſes, twenty three Thouſand two Hundred and three.</p>
+               </div>
+               <div type="section">
+                  <head>Several Books mentioned in the Scriptures of Truth, ſup<g ref="char:EOLhyphen"/>poſed to be loſt.</head>
+                  <p>The Book of <hi>Enoch.</hi> Of <hi>Iddo</hi> and <hi>Gad,</hi> Seers.</p>
+                  <p>
+                     <hi>Samuel</hi> wrote a Book of the Office and Inſtruction of a King.</p>
+                  <p>
+                     <hi>Solomon</hi> wrote a Book of Three Thouſand <hi>Parables,</hi> and five thouſand <hi>Songs.</hi> Alſo of the Nature of <hi>Herbs, Trees,</hi> and <hi>Plants,</hi> from the <hi>Cedar</hi> to the <hi>Hyſop.</hi>
+                  </p>
+                  <pb n="32" facs="tcp:97172:15" rendition="simple:additions"/>
+                  <p>A Book of the Cronicles of the Kings of <hi>Judah</hi> and <hi>Iſrael.</hi>
+                  </p>
+                  <p>The Third to the <hi>Corinthians.</hi>
+                  </p>
+                  <p>The Third Epiſtle of <hi>Peter.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The worth of Gold by <hi>Troy</hi>-weight.</head>
+                  <p>One Pound of <hi>Gold</hi> is worth Forty Pound.</p>
+                  <p>One Ounce is worth three Pound ſix Shillings eight Pence.</p>
+                  <p>One Grain, worth three half Pence.</p>
+               </div>
+               <div type="section">
+                  <head>The worth of Silver by <hi>Troy</hi>-weight.</head>
+                  <p>One Pound, is worth three Pounds.</p>
+                  <p>One Ounce, worth five Shillings.</p>
+                  <p>One Penny-Weight, worth three Pence.</p>
+                  <p>One Grain, worth a half Penny. <hi>This being the Weight of current Money.</hi>
+                  </p>
+                  <pb n="33" facs="tcp:97172:15"/>
+                  <p>By <hi>Averdupoiſe</hi>-weight, One Pound of <hi>Gold</hi> is worth forty nine Pound thirteen Shillings eight Pence half Penny.</p>
+                  <p>One Pound of <hi>Silver</hi> by <hi>Averdu<g ref="char:EOLhyphen"/>poiſe</hi>-weight, worth three Pound fifteen Shillings eight Pence half Penny.</p>
+                  <p>By this it appears, One Hundred Pound of <hi>Silver,</hi> weighs twenty ſix Pound five Ounces <hi>Averdupoiſe.</hi>
+                  </p>
+                  <p>And one Hundred Pound of <hi>Gold</hi> Money, weighs two Pound and about a quarter of an Ounce.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Days and Hours.</head>
+               <p>Days are called either Natural or Artificial; a Day Natural is one entire Revolution of the Sun, or Equinoctial about the Earth, which is performed in 24 hours, containing both day and night; now this day hath ſeveral be<g ref="char:EOLhyphen"/>ginnings; as we <hi>Engliſh</hi> and the <hi>Romans</hi> uſuall, begin at midnight, the <hi>Perſians, Bohemians</hi> and <hi>Babylonians,</hi> begin at Sun-riſing; the <hi>Jews, Egyptians, Athe<g ref="char:EOLhyphen"/>nians,
+<pb n="34" facs="tcp:97172:16"/> 
+                     <g ref="char:V">Ʋ</g>mbrians,</hi> &amp;c. begin at Sun-ſet, (which doth appear to be the true be<g ref="char:EOLhyphen"/>ginning by the Scriptures, where the Night is put firſt, as <hi>Gen.</hi> 1.5, 8, 13, 19, <hi>&amp;c. Lev.</hi> 23.32. 2 <hi>Cor.</hi> 11.25.) The Aſtronomers begin at mid-day or noon.</p>
+               <p>An Artificial day is from Sun-riſing to Sun-ſetting, and differs in length of equal hours, according to the Suns place in the Zodiack, and Latitude of the Region; but in unequal hours (cal<g ref="char:EOLhyphen"/>led Planetary hours) there is always 12, ſo that one hour is the 12th part of a day, be it long or ſhort, and theſe hours we read of in Scriptures, <hi>John</hi> 11.9. <hi>Mat.</hi> 20 for at or about <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> where great part of it was writ, the Latitude is about 33 degrees, which gives above 14 equal hours for the longeſt Artificial day, therefore we may eaſily perceive that it was ment the unequal hours: Their day alſo was divided into 4 equal parts, or large hours.</p>
+               <pb n="35" facs="tcp:97172:16"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell rows="2">Scrip<g ref="char:EOLhyphen"/>ture</cell>
+                        <cell>large</cell>
+                        <cell rows="2">hours</cell>
+                        <cell>I.</cell>
+                        <cell>III.</cell>
+                        <cell>VI.</cell>
+                        <cell>IX.</cell>
+                     </row>
+                     <row>
+                        <cell>ſmall</cell>
+                        <cell>1, 2, 3.</cell>
+                        <cell>4, 5, 6.</cell>
+                        <cell>7, 8, 9.</cell>
+                        <cell>10, 11, 12.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And with us they are 7, 8, 9, 10, 11, 12. 1, 2, 3, 4, 5, 6. So their 3d hour was the midſt of the Forenoon, and 6th hour full noon, and 9th hour mid Afternoon, and 12th hour Sun-ſet, <hi>Mark</hi> 15.25, 34. <hi>Luke</hi> 23.44. <hi>Acts</hi> 2.15. and 10.3, 30.</p>
+            </div>
+            <div type="part">
+               <head>Of Night-watches.</head>
+               <p>They divided the Night alſo into 4 equal parts, called Watches, allowing 3 hours to every Watch, which makes the Night likewiſe to conſiſt of 12 hours, <hi>Mark.</hi> 13.35.</p>
+               <p>The firſt Watch began at Evening, and was till their third hour, (or our ninth) at Night.</p>
+               <p>The ſecond, or middle Watch, was from thence to Midnight, <hi>Judges</hi> 7.19. <hi>Luke</hi> 12.38.</p>
+               <p>The third Watch, or Cock-crowing
+<pb n="36" facs="tcp:97172:17"/> was from Midnight till their 9th hour (or our third hour) in the Morning, <hi>Luke</hi> 12.38.</p>
+               <p>The fourth Watch, was from that time until Morning, or Sun riſing, <hi>Mark</hi> 6.48.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
